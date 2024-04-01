@@ -1,5 +1,8 @@
 # the fast api offline template
 
+## Set up the virtual Environment
+1. create anaconda env : `conda create --name fastapienv python=3.10`
+2. active the env: `conda activate fastapienv`
 ## Configuration of Environment On Line
 1. install the requirements by `pip install -r requirements`
 
