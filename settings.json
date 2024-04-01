@@ -1,0 +1,5 @@
+{
+  "base_url": "http://localhost:8000",
+  "load_detect_code_url": "/detect_code/",
+  "flight_data_access_url": "/params/"
+}
