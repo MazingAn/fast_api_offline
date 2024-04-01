@@ -1,4 +1,4 @@
-# the flightdata detect service
+# the fast api offline template
 
 ## Configuration of Environment On Line
 1. install the requirements by `pip install -r requirements`
